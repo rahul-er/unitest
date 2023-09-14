@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Unimoni
+Build-Jdk: 17.0.8.1
+Implementation-Title: react-springbt-postgres
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.react-springbt-postgres
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://spring.io/projects/spring-boot/react-springb
+ t-postgres
+Created-By: Maven Integration for Eclipse
+
